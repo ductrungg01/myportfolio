@@ -1,0 +1,21 @@
+html {
+    background-color: violet;
+}
+
+h1 {
+    color: red;
+}
+
+h2 {
+    color: blue;
+}
+
+#title {
+    color: green;
+    text-align: center;
+}
+
+* {
+    color: red;
+    text-align: center;
+}
